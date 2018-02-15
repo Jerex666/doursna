@@ -728,8 +728,12 @@ bot.on('message', function(message) {
         message.channel.sendMessage('guitar here smash xd ok xdd');
     }
 
-    if(message.content == 'xdipper old quote') {
+    if(message.content == 'xdipper new quote') {
         message.channel.sendMessage('they were having an orgy between jeremy and you the two gays to poor little cojansen a gay woman of shit and boy I\'m no more pendejero understand it once and finish it because I\'m going to find you and I\'ll kill you machine guns if you keep bothering me I\'ll end it son of bitch who cares I insult my skins losers look like rats kids you not me just just some fucking fags have to tell me what to do shit noviete from the jegay valley');
+    }
+
+    if(message.content == 'xdipper old quote') {
+        message.channel.sendMessage("hahahaha gay fuck boy rata sos voice with the photo of nerd and gay that you are with the photo of the sword of minecraft suck a cock well big putazo me to the skins beta no longer I wait for nor swegta because I already have them hahah suicidate you does well boy rat with the picture that you are well rat fucking asshole your skins are a real shit I say hahaha and last create an original character with 3ds max asshole instead of using vance of another color haahah loser and the photo rabbit is because I use Petey Hahahaha");
     }
 
     if(message.content == 'fap') {
