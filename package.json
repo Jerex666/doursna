@@ -1,14 +1,13 @@
 {
-  "name": "doursnabot",
-  "version": "1.0.0",
+  "name": "doursna",
   "description": "",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.0"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
