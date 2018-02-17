@@ -844,6 +844,18 @@ bot.on('message', function(message) {
         message.channel.sendMessage('Eres un gran pedazo de mierda madre mamando polla chupando hijo de puta esperma en mi gran polla negra y pelotas con un viejo y oxidado consolador en mis tetas peludas hasta el culo con mi pene realmente muy largo y duro con la piña de Manny en mi pecho.');
     }
 	
+    if(message.content == 'beta recreator role for undead') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
+    if(message.content == 'quinn quote') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
+    if(message.content == 'quinnsane quote') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
 });
 
 bot.login(process.env.BOT_TOKEN);
