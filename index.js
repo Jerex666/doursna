@@ -631,6 +631,10 @@ bot.on('message', function(message) {
         message.channel.sendMessage('186.49.173.218');
     }
 
+    if(message.content == 'xdorkper ip2') {
+        message.channel.sendMessage('186.49.219.63');
+    }
+
     if(message.content == 'ze voidah music') {
         message.channel.sendMessage('https://www.youtube.com/playlist?list=PL_eAsi1tyAU8xTakTUCGP0snuWyS-4nRR');
     }
