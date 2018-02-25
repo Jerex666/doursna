@@ -856,6 +856,17 @@ bot.on('message', function(message) {
         message.channel.sendMessage('fine fuck off you off here leave me alone now');
     }
 
+    if(message.content == 'kirbo') {
+        message.channel.sendMessage('xdipper\'s discord account, kirbo#8621 1st kirbo, kirbo#8019 2nd kirbo');
+    }
+
+    if(message.content == 'ilovebully999') {
+        message.channel.sendMessage('hi welcometo*wallmart*video');
+    }
+
+    if(message.content == 'programmergaming') {
+        message.channel.sendMessage('thx for free gta 3 xddddd ok boi xxx');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
