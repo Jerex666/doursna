@@ -867,6 +867,58 @@ bot.on('message', function(message) {
     if(message.content == 'programmergaming') {
         message.channel.sendMessage('thx for free gta 3 xddddd ok boi xxx');
     }
+
+    if(message.content == 'xdipper quote 1') {
+        message.channel.sendMessage('you crossed the line weon puto fucking there is puto who cares fucking putazo andate the shell of your mother fucking old shit duck I have already 14 and fulfilled pendejo are your piece of bread eaten shit of skins are your skins of ps2 who he wants them fucking fucking I thought we were pendejo friends and I already studied fucking shit skins fucking shit ps2 just jerex congratulate him pendejo');
+    }
+
+    if(message.content == 'xdipper quote 2') {
+        message.channel.sendMessage('they were having an orgy between jeremy and you the two gays to poor little cojansen a gay woman of shit and boy I\'m no more pendejero understand it once and finish it because I\'m going to find you and I\'ll kill you machine guns if you keep bothering me I\'ll end it son of bitch who cares I insult my skins losers look like rats kids you not me just just some fucking fags have to tell me what to do shit noviete from the jegay valley');
+    }
+
+    if(message.content == 'xdipper quote 3') {
+        message.channel.sendMessage("hahahaha gay fuck boy rata sos voice with the photo of nerd and gay that you are with the photo of the sword of minecraft suck a cock well big putazo me to the skins beta no longer I wait for nor swegta because I already have them hahah suicidate you does well boy rat with the picture that you are well rat fucking asshole your skins are a real shit I say hahaha and last create an original character with 3ds max asshole instead of using vance of another color haahah loser and the photo rabbit is because I use Petey Hahahaha");
+    }
+
+    if(message.content == 'xdipper quote 4') {
+        message.channel.sendMessage("already fat chilean enough stop fucking with your fucking videos youtube is leaving too many channels of children rats will have to get them are very fucking and stop bothering with trent me with 3ds max and I have all you show ami edgar in your face rat and chilena and ugly fat enough to bother nerd rat boy because doing these boring videos to the people it seems that you are in love with those two idiot guys and enough stupid suicide and finish it so you leave peace in the fucking world and I have them all to troy ya trent just that they are better rat chau chau no fuck");
+    }
+
+    if(message.content == 'xdipper quote 5') {
+        message.channel.sendMessage("YOU CROSSED THE LINE WEON PUTO FUCKING HAY YOU HAVE TO WORRY HOOK PUTATE ANDATE THE SHELL YOUR SHITY SHIT OLD SHIT SHIT FUCK AND I HAVE 14 AND FULFILLED SHEEP ARE YOUR PIECE OF BREAD FOOT SHIT FUCKS ARE YOUR PS2 HIDES THAT HE REMOVES THEM FUCKING BITCH I THOUGHT THAT WE ARE FRIENDS PEOPLE AND I HAVE ALREADY HAD BEEN DAMNED FUCKING FUCKING HOOKS FUCKING PS2 ONLY JEREX FELICITARLO PENDEJO");
+    }
+
+    if(message.content == 'xdipper quote 6') {
+        message.channel.sendMessage("THEY HAPPY ORGY BETWEEN JEREMY AND THE TWO COJANSEN GAY POOR GIRL HOMOSEXUAL EMBERRASING AND BOYS NO LONGER PENDEJERO WILL FIND OUT, THAT THE ANSWER IS YES, AND I WILL  FIN YOU AND KILL YOU, MACHINE GUN IF YOU SAVE ME, WILL END WITH A BITCH, BECAUSE I AM WORRIED WITH BAD SKIN LOSING ME, LOOKS LIKE THEIR KIDS, INSTEAD JUST FUCKING FUCKED UP, I HAVE TO MAKE THEM TALK,  BECAUSE THEY HAVE ORGY BETWEEN JEREMY AND YOU TWO GAYS DEAMONS FUCK GIRL GAY AND BOY IM NO MORE PENDEJERO WILL FIND OUT, BECAUSE THE ANSWER IS YES, I WILL FIND YOU AND KILL YOU MACHINE GUN IF YOU HUG ME, I WOULD END WITH A BITCH, WHICH INTERESTS ME TO SWEAR MY SKINS I AM LOSING WHEN YOU ARE BOY AND NOT ONLY ME GAY FUCKING AND HAVE TO BE COMPLETED BY ME TO MAKE OMON THERE IS PARTY. FROM SEX BETWEEN JEREMY  GA N YOU TWO GAY COJANSEN POOR LIKE GIRL HOMOSEXUALIST, WITHOUT TASTE AND MY SON IS NO LONGER PENDEJERO I UNDERSTAND, AND LIKE THAT I WILL FIND YOU AND KILL YOU MACHINE GUN IF YOU HUG ME, I GO TO END WITH A BITCH TO BE PR RUDE MY SKIN LOSER LOOK LIKE HIS KIDS, I DON'T FUCKING SON OF A BITCH JUST MAKE ME WHAT TO THEY DO TRASH ON EMPTY VALLEY JEGAY NOVIETE ON EMPTY VALLEY JEGAY NOVIETE ON VALLEY JEGAY")
+    }
+
+    if(message.content == 'xdipper quote 7') {
+        message.channel.sendMessage("the son of the sick prostitute comedy cat cat bastard bastard bastard bastard marah kosherry go to wear another lao monkey invitation will go to make you shit ballasts in the anus silly culiao vo no sabi with whom I have stupid culiao weonao son of the maraque nobody wanted to cook because the kite went to restore the ugly culinary cube for the grape grape culiao aweonao stupid and the conversation goes to suck the pico son of the tragasables ate mucus from the peruvian culia you crossed the line weon puto fucking there is puto who cares fucking putazo andate the shell of your mother fucking old shit duck I have already 14 and fulfilled pendejo are your piece of bread eaten shit of skins are your skins of ps2 who he wants them fucking fucking I thought we were pendejo friends and I already studied fucking shit skins fucking shit ps2 just jerex congratulate him pendejo")
+    }
+
+    if(message.content == 'xdipper quote 8') {
+        message.channel.sendMessage("anak dari pelacur malang komedi kucing kucing bajingan bajingan bajingan bajingan marah kosherry pergi untuk memakai undangan monyet lao lain akan pergi untuk membuat Anda sial ballast di anus konyol culiao vo tidak sabi dengan siapa aku memiliki culiao bodoh weonao anak maraque tidak ada yang ingin untuk memasak karena layang-layang pergi untuk mengembalikan kubus kuliner jelek untuk anggur anggur culiao aweonao bodoh dan percakapan pergi untuk menghisap anak pico dari tragasables makan lendir dari culia Peru Anda melewati garis weon puto sialan ada puto yang peduli sialan putazo andate cangkang ibumu sialan sialan tua bebek aku sudah 14 dan dipenuhi pendejo adalah roti Anda yang dimakan kotoran kulit adalah kulit ps2 Anda yang dia inginkan dari mereka fucking fucking Saya pikir kami adalah teman pendejo dan saya sudah mempelajari sialan sialan kulit sialan sialan ps2 hanya jerex selamat dia pendejo")
+    }
+
+    if(message.content == 'xdipper quote 9') {
+        message.channel.sendMessage("mereka mengalami pesta seks antara jeremy dan Anda berdua gay kecil cojansen miskin seorang wanita gay omong kosong dan anak laki-laki saya tidak lagi pendejero memahaminya sekali dan menyelesaikannya karena saya akan menemukan Anda dan saya akan membunuh Anda mesin senjata jika Anda terus mengganggu saya, saya akan mengakhirinya dengan sundal yang peduli Saya menghina kulit pecundang saya terlihat seperti tikus anak-anak Anda bukan saya hanya beberapa homo fucking yang harus memberitahu saya apa yang harus dilakukan omong kosong noviete dari lembah jegay")
+    }
+
+    if(message.content == 'alpha fatty') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/329645578956832770/426164091409661962/20180312_134958.jpg")
+    }
+
+    if(message.content == 'alpha ivan') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/329645578956832770/425723096213880842/20180320_150930.jpg")
+    }
+
+    if(message.content == 'jo') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/410947416737579018/426164416887914517/circlular_blur.png")
+    }
+
+    if(message.content == 'jo 2') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/329645578956832770/424470780940779531/eyes.png")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
