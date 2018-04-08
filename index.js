@@ -920,7 +920,7 @@ bot.on('message', function(message) {
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/329645578956832770/424470780940779531/eyes.png")
     }
 
-    if(message.content == 'mike d') {
+    if(message.content == 'Mike D') {
         message.channel.sendMessage("MIKE DICK XDDDDDDDDDDDDDDD (jk)")
     }
 
