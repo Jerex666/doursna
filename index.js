@@ -865,7 +865,7 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'programmergaming') {
-        message.channel.sendMessage('thx for free gta 3 xddddd ok boi xxx');
+        message.channel.sendMessage('thx for free gta 3 and vccccc xddddd ok boi :joy: xxx');
     }
 
     if(message.content == 'xdipper quote 1') {
@@ -918,6 +918,10 @@ bot.on('message', function(message) {
 
     if(message.content == 'jo 2') {
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/329645578956832770/424470780940779531/eyes.png")
+    }
+
+    if(message.content == 'mike d') {
+        message.channel.sendMessage("MIKE DICK XDDDDDDDDDDDDDDD (jk)")
     }
 });
 
