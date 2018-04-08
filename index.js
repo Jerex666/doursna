@@ -923,6 +923,14 @@ bot.on('message', function(message) {
     if(message.content == 'mike d') {
         message.channel.sendMessage("MIKE DICK XDDDDDDDDDDDDDDD (jk)")
     }
+
+    if(message.content == 'kaua') {
+        message.channel.sendMessage("a kiddo who is jealous of jerex")
+    }
+
+    if(message.content == 'kiro') {
+        message.channel.sendMessage("un hijo de puta arrogante que arruino el rol en este server.")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
