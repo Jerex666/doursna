@@ -1015,6 +1015,70 @@ bot.on('message', function(message) {
     if(message.content == 'xxxxxxxxxxxxxxxxxx') {
         message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
     }
+
+    if(message.content == 'where all the commands at?') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+    }
+
+    if(message.content == 'how do you see all commands') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+    }
+
+    if(message.content == 'how to see all commands') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+    }
+
+    if(message.content == 'all cmds') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+    }
+
+    if(message.content == 'all cmd') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+    }
+
+    if(message.content == 'Jerex') {
+        message.channel.sendMessage("jerex es puto de mierda")
+    }
+
+    if(message.content == 'jerex quote') {
+        message.channel.sendMessage("hijo de la puta enfermo conchetumare weno pal tulon sapo culiao bastardo de mierda maraco conchetumare anda a wear a otro lao mono conchetumare te voy a hacer cagar a balasos en el ano tonto culiao vo no sabi con quien te meti tonto culiao weonao hijo de la maraca que nadie se quiso culiar porque tenia el choro pasao a reineta la fea culia chancha conchetumare sapo culiao aweonao tonto y la conchetumare anda a chupar pico hijo de la tragasables come moco de la peruana culia")
+    }
+
+    if(message.content == 'Jerex quote') {
+        message.channel.sendMessage("hijo de la puta enfermo conchetumare weno pal tulon sapo culiao bastardo de mierda maraco conchetumare anda a wear a otro lao mono conchetumare te voy a hacer cagar a balasos en el ano tonto culiao vo no sabi con quien te meti tonto culiao weonao hijo de la maraca que nadie se quiso culiar porque tenia el choro pasao a reineta la fea culia chancha conchetumare sapo culiao aweonao tonto y la conchetumare anda a chupar pico hijo de la tragasables come moco de la peruana culia")
+    }
+
+    if(message.content == 'Jerex Quote') {
+        message.channel.sendMessage("hijo de la puta enfermo conchetumare weno pal tulon sapo culiao bastardo de mierda maraco conchetumare anda a wear a otro lao mono conchetumare te voy a hacer cagar a balasos en el ano tonto culiao vo no sabi con quien te meti tonto culiao weonao hijo de la maraca que nadie se quiso culiar porque tenia el choro pasao a reineta la fea culia chancha conchetumare sapo culiao aweonao tonto y la conchetumare anda a chupar pico hijo de la tragasables come moco de la peruana culia")
+    }
+
+    if(message.content == 'jerex Quote') {
+        message.channel.sendMessage("hijo de la puta enfermo conchetumare weno pal tulon sapo culiao bastardo de mierda maraco conchetumare anda a wear a otro lao mono conchetumare te voy a hacer cagar a balasos en el ano tonto culiao vo no sabi con quien te meti tonto culiao weonao hijo de la maraca que nadie se quiso culiar porque tenia el choro pasao a reineta la fea culia chancha conchetumare sapo culiao aweonao tonto y la conchetumare anda a chupar pico hijo de la tragasables come moco de la peruana culia")
+    }
+
+    if(message.content == 'jerex story') {
+        message.channel.sendMessage(`It turns out that yesterday I was in the shopping mall and I saw the average mine eating a churrasco from the juan maestro, I approached him and said he hears sapa conchetumare, he invited me from your churrasco and she answered that it happens to you, the recollecting son of the pichula From the macaco I went to poto was at that moment that I got a sudden desire to shit so I went to the bathroom without throwing the tremendous straw on top of the maraca churrasco after when I got to the bathroom I realized that I did not feel like shitting that I started to invoke the demon satanas
+hey devil Culiao, you're a very good being. good for the cortnata haha xd come here and make my mucus suck me the cocos demon culiao son of the fox carrier of the antavirus
+It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fool re conchetumare came personified as a hitler. I will never know if it was the same hitler. but after that the culiao toad invited me to invade russia and I told him not to post silly zangano reculted bastard re weon son of the peak badly stuck because I respected the u.r.s.s as a good communist good for the cornet I am xd lol`)
+    }
+
+    if(message.content == 'Jerex story') {
+        message.channel.sendMessage(`It turns out that yesterday I was in the shopping mall and I saw the average mine eating a churrasco from the juan maestro, I approached him and said he hears sapa conchetumare, he invited me from your churrasco and she answered that it happens to you, the recollecting son of the pichula From the macaco I went to poto was at that moment that I got a sudden desire to shit so I went to the bathroom without throwing the tremendous straw on top of the maraca churrasco after when I got to the bathroom I realized that I did not feel like shitting that I started to invoke the demon satanas
+hey devil Culiao, you're a very good being. good for the cortnata haha xd come here and make my mucus suck me the cocos demon culiao son of the fox carrier of the antavirus
+It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fool re conchetumare came personified as a hitler. I will never know if it was the same hitler. but after that the culiao toad invited me to invade russia and I told him not to post silly zangano reculted bastard re weon son of the peak badly stuck because I respected the u.r.s.s as a good communist good for the cornet I am xd lol`)
+    }
+
+    if(message.content == 'Jerex Story') {
+        message.channel.sendMessage(`It turns out that yesterday I was in the shopping mall and I saw the average mine eating a churrasco from the juan maestro, I approached him and said he hears sapa conchetumare, he invited me from your churrasco and she answered that it happens to you, the recollecting son of the pichula From the macaco I went to poto was at that moment that I got a sudden desire to shit so I went to the bathroom without throwing the tremendous straw on top of the maraca churrasco after when I got to the bathroom I realized that I did not feel like shitting that I started to invoke the demon satanas
+hey devil Culiao, you're a very good being. good for the cortnata haha xd come here and make my mucus suck me the cocos demon culiao son of the fox carrier of the antavirus
+It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fool re conchetumare came personified as a hitler. I will never know if it was the same hitler. but after that the culiao toad invited me to invade russia and I told him not to post silly zangano reculted bastard re weon son of the peak badly stuck because I respected the u.r.s.s as a good communist good for the cornet I am xd lol`)
+    }
+
+    if(message.content == 'jerex Story') {
+        message.channel.sendMessage(`It turns out that yesterday I was in the shopping mall and I saw the average mine eating a churrasco from the juan maestro, I approached him and said he hears sapa conchetumare, he invited me from your churrasco and she answered that it happens to you, the recollecting son of the pichula From the macaco I went to poto was at that moment that I got a sudden desire to shit so I went to the bathroom without throwing the tremendous straw on top of the maraca churrasco after when I got to the bathroom I realized that I did not feel like shitting that I started to invoke the demon satanas
+hey devil Culiao, you're a very good being. good for the cortnata haha xd come here and make my mucus suck me the cocos demon culiao son of the fox carrier of the antavirus
+It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fool re conchetumare came personified as a hitler. I will never know if it was the same hitler. but after that the culiao toad invited me to invade russia and I told him not to post silly zangano reculted bastard re weon son of the peak badly stuck because I respected the u.r.s.s as a good communist good for the cornet I am xd lol`)
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
