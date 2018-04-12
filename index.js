@@ -1079,6 +1079,26 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
 hey devil Culiao, you're a very good being. good for the cortnata haha xd come here and make my mucus suck me the cocos demon culiao son of the fox carrier of the antavirus
 It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fool re conchetumare came personified as a hitler. I will never know if it was the same hitler. but after that the culiao toad invited me to invade russia and I told him not to post silly zangano reculted bastard re weon son of the peak badly stuck because I respected the u.r.s.s as a good communist good for the cornet I am xd lol`)
     }
+
+    if(message.content == 'jegay valley') {
+        message.channel.sendMessage("fucking fags have to tell me what to do shit noviete from the jegay valley")
+    }
+
+    if(message.content == 'Jegay valley') {
+        message.channel.sendMessage("fucking fags have to tell me what to do shit noviete from the jegay valley")
+    }
+
+    if(message.content == 'jegay Valley') {
+        message.channel.sendMessage("fucking fags have to tell me what to do shit noviete from the jegay valley")
+    }
+
+    if(message.content == 'Jegay Valley') {
+        message.channel.sendMessage("fucking fags have to tell me what to do shit noviete from the jegay valley")
+    }
+
+    if(message.content == 'JEGAY VALLEY') {
+        message.channel.sendMessage("fucking fags have to tell me what to do shit noviete from the jegay valley")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
