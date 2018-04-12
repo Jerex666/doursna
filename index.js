@@ -983,21 +983,7 @@ bot.on('message', function(message) {
     if(message.content == 'do things removed in bully') {
         message.channel.sendMessage("DO 1 MILLION THINGS REMOVED IN BULLY FEAT SWEGTA & QUINNSANE & THENATHANNS & DEADPOOLXYZ & SIMON BESTIA & DEGOBC & PANCAKES081 & SOLIDCAL & GERRY ROSENTHAL & VADIM M & JIMMY01 & DABOSS54320 & RIXATOR & ZMAN ENTERPRIES & CAUTIOUS YOUNG & ALONTZEDAKA & MEXXN & GAMERFOREVER & MATT & KAMIZILA & JEREX SINCLAIR & THEUNDEADSOLDIER & AURASHADOW & MARSHAL MANSON & RED HUA & UNDERGROUNDDEV & RAMBO7 & MURYLLO & KIRO & HAIMAR & XDIPPER & KAUA & GRANTY & MAXIMO TAPIA & INSANITY GAMES & ALTAMURENZA & THECOOLGAMEBULLY & ILOVEBULLY999 & PROGRAMMERGAMING & ACTEDSTREAM41 & KURLYGAMER & PIRANIATABG & MINTY POPTART & HARRY K 25 & CRAZYJOVEN & UNKNOWNSOLDIER1138 & HATRIX & DKLUIN & SILENT & PRIMODIAL & HEAVYWEAPONSBELLIC & LEURAN & BLINDBOI & DOUR SNA &  ZE VOIDAH.")
     }
-
-    if(message.content == 'roy erceg') {
-        message.channel.sendMessage(`if(message.content == 'roy erceg') {
-        message.channel.sendMessage("")
-    }`)
-    }
-
-    if(message.content == 'erceg') {
-        message.channel.sendMessage("michael erceg?")
-    }
-
-    if(message.content == 'roy') {
-        message.channel.sendMessage("roy's laptop?")
-    }
-
+	
     if(message.content == "roy's laptop") {
         message.channel.sendMessage("actually rafi's laptop xd")
     }
