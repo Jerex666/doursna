@@ -1017,23 +1017,23 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'where all the commands at?') {
-        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/index.js")
     }
 
     if(message.content == 'how do you see all commands') {
-        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/index.js")
     }
 
     if(message.content == 'how to see all commands') {
-        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/index.js")
     }
 
     if(message.content == 'all cmds') {
-        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/index.js")
     }
 
     if(message.content == 'all cmd') {
-        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/edit/master/index.js")
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/index.js")
     }
 
     if(message.content == 'Jerex') {
