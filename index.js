@@ -1107,6 +1107,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'anak dari pelacur') {
         message.channel.sendMessage("A N A K  dari  P E L A C U R")
     }
+
+    if(message.content == 'india') {
+        message.channel.sendMessage("elo iud'up, d'udei in 'dis wideo i van'd 'doo shov iuu hov chu mek e 'dee eks 'dee fa`il on em es doss siks poin'd chu chu");
+    }
+
+    if(message.content == 'indian') {
+        message.channel.sendMessage("TU`rk TU`rk ooOOH TU`rk TU`rk  ooOOH TU`rk TU`rk TUNA'NA'NAK");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
