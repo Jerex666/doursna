@@ -972,7 +972,7 @@ bot.on('message', function(message) {
         message.channel.sendMessage("~ jerex")
     }
 
-    if(message.content == 'xdipper quote 10') {
+    if(message.content == 'fat chilean') {
         message.channel.sendMessage("already fat chilean enough stop fucking with your fucking videos youtube is leaving too many channels of children rats will have to get them are very fucking and stop bothering with trent me with 3ds max and I have all you show ami edgar in your face rat and chilena and ugly fat enough to bother nerd rat boy because doing these boring videos to the people it seems that you are in love with those two idiot guys and enough stupid suicide and finish it so you leave peace in the fucking world and I have them all to troy ya trent just that they are better rat chau chau no fuck")
     }
 
@@ -1098,6 +1098,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
 
     if(message.content == 'JEGAY VALLEY') {
         message.channel.sendMessage("fucking fags have to tell me what to do shit noviete from the jegay valley")
+    }
+
+    if(message.content == 'pesta seks') {
+        message.channel.sendMessage("P E S T A   S E K S")
+    }
+
+    if(message.content == 'anak dari pelacur') {
+        message.channel.sendMessage("A N A K  dari  P E L A C U R")
     }
 });
 
