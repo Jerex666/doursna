@@ -943,6 +943,92 @@ bot.on('message', function(message) {
     if(message.content == 'nayops 18 pfp') {
         message.channel.sendMessage("https://yt3.ggpht.com/-4ItL4OUPt68/AAAAAAAAAAI/AAAAAAAAAAA/XhwWGmjSg_U/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg")
     }
+
+    if(message.content == 'troi') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/411578754008350732/433998471725318145/u_wot.png")
+    }
+
+    if(message.content == 'troie') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/411578754008350732/433998471725318145/u_wot.png")
+    }
+
+    if(message.content == 'trent is gay') {
+        message.channel.sendMessage("yag si tnert")
+    }
+
+    if(message.content == 'yag si tnert') {
+        message.channel.sendMessage("trent is gay")
+    }
+
+    if(message.content == 'gay') {
+        message.channel.sendMessage("kiroATLERELIX10")
+    }
+
+    if(message.content == 'kiroATLERELIX10') {
+        message.channel.sendMessage("gay")
+    }
+
+    if(message.content == 'swegayta') {
+        message.channel.sendMessage("~ jerex")
+    }
+
+    if(message.content == 'xdipper quote 10') {
+        message.channel.sendMessage("already fat chilean enough stop fucking with your fucking videos youtube is leaving too many channels of children rats will have to get them are very fucking and stop bothering with trent me with 3ds max and I have all you show ami edgar in your face rat and chilena and ugly fat enough to bother nerd rat boy because doing these boring videos to the people it seems that you are in love with those two idiot guys and enough stupid suicide and finish it so you leave peace in the fucking world and I have them all to troy ya trent just that they are better rat chau chau no fuck")
+    }
+
+    if(message.content == 'AAAAA') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/410947416737579018/434040514787147807/circlular_blur.png")
+    }
+
+    if(message.content == 'do things removed in bully') {
+        message.channel.sendMessage("DO 1 MILLION THINGS REMOVED IN BULLY FEAT SWEGTA & QUINNSANE & THENATHANNS & DEADPOOLXYZ & SIMON BESTIA & DEGOBC & PANCAKES081 & SOLIDCAL & GERRY ROSENTHAL & VADIM M & JIMMY01 & DABOSS54320 & RIXATOR & ZMAN ENTERPRIES & CAUTIOUS YOUNG & ALONTZEDAKA & MEXXN & GAMERFOREVER & MATT & KAMIZILA & JEREX SINCLAIR & THEUNDEADSOLDIER & AURASHADOW & MARSHAL MANSON & RED HUA & UNDERGROUNDDEV & RAMBO7 & MURYLLO & KIRO & HAIMAR & XDIPPER & KAUA & GRANTY & MAXIMO TAPIA & INSANITY GAMES & ALTAMURENZA & THECOOLGAMEBULLY & ILOVEBULLY999 & PROGRAMMERGAMING & ACTEDSTREAM41 & KURLYGAMER & PIRANIATABG & MINTY POPTART & HARRY K 25 & CRAZYJOVEN & UNKNOWNSOLDIER1138 & HATRIX & DKLUIN & SILENT & PRIMODIAL & HEAVYWEAPONSBELLIC & LEURAN & BLINDBOI & DOUR SNA &  ZE VOIDAH.")
+    }
+
+    if(message.content == 'roy erceg') {
+        message.channel.sendMessage(`if(message.content == 'roy erceg') {
+        message.channel.sendMessage("")
+    }`)
+    }
+
+    if(message.content == 'erceg') {
+        message.channel.sendMessage("michael erceg?")
+    }
+
+    if(message.content == 'roy') {
+        message.channel.sendMessage("roy's laptop?")
+    }
+
+    if(message.content == "roy's laptop") {
+        message.channel.sendMessage("actually rafi's laptop xd")
+    }
+
+    if(message.content == 'xx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
+
+    if(message.content == 'xxx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
+
+    if(message.content == 'xxxx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
+
+    if(message.content == 'xxxxx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
+
+    if(message.content == 'xxxxxx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
+
+    if(message.content == 'xxxxxxx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
+
+    if(message.content == 'xxxxxxxxxxxxxxxxxx') {
+        message.channel.sendMessage("hitmarkers xxxxxxxxxxxxxxxxx")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
