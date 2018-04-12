@@ -1113,7 +1113,7 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     }
 
     if(message.content == 'indian') {
-        message.channel.sendMessage("TU`rk TU`rk ooOOH TU`rk TU`rk  ooOOH TU`rk TU`rk TUNA'NA'NAK");
+        message.channel.sendMessage("TU\`rk TU\`rk ooOOH TU\`rk TU\`rk  ooOOH TU\`rk TU\`rk TUNA'NA'NAK");
     }
 });
 
