@@ -931,6 +931,18 @@ bot.on('message', function(message) {
     if(message.content == 'kiro') {
         message.channel.sendMessage("un hijo de puta arrogante que arruino el rol en este server.")
     }
+
+    if(message.content == 'nayops') {
+        message.channel.sendMessage("nayops 18 is a fucking cunt and also a fucking dickhead, he stole tail's, rixator's, actedstream's, ze voidah's videos. and that's fucking sucks my 6.2 inch fucking dick.")
+    }
+
+    if(message.content == 'nayops 18') {
+        message.channel.sendMessage("nayops 18 is a fucking cunt and also a fucking dickhead, he stole tail's, rixator's, actedstream's, ze voidah's videos. and that's fucking sucks my 6.2 inch fucking dick.")
+    }
+
+    if(message.content == 'nayops 18 pfp') {
+        message.channel.sendMessage("https://yt3.ggpht.com/-4ItL4OUPt68/AAAAAAAAAAI/AAAAAAAAAAA/XhwWGmjSg_U/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
