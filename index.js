@@ -929,7 +929,7 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'kiro') {
-        message.channel.sendMessage("un hijo de puta arrogante que arruino el rol en este server.")
+        message.channel.sendMessage("*message deleted*")
     }
 
     if(message.content == 'nayops') {
