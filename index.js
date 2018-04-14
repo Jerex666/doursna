@@ -1131,6 +1131,18 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'wtf') {
         message.channel.sendMessage("double u tee ef man");
     }
+
+    if(message.content == 'jerex quote 2') {
+        message.channel.sendMessage("son of the sick whore conchetumare weno pal tulon toad culiao bastard of fuck maraco conchetumare go to wear another lao monkey conchetumare I'm going to make you shit ballasts in the anus silly culiao vo no sabi with whom I put you silly culiao weonao son of the maraca that nobody wanted to cook because they had the choro passed on to reineta the ugly culia chancha conchetumare toad culiao aweonao silly and the conchetumare go to suck pico son of the tragasables eats mucus from the Peruvian culia");
+    }
+
+    if(message.content == 'jerex quote 3') {
+        message.channel.sendMessage("THE SON OF THE SICK PROSTITUE COMEDY CAT CAT BASTARD BASTARD BASTARD BASTARD MARAH KOSHERRY GO TO WEAR ANOTHER LAO MONKEY INVITATION WILL GO TO MAKE YOU SHIT BALLASTS IN THE ANUS SILLY CULIAO VO NO SABI WITH WHOM I HAVE STUPID CULIAO WEONAO SON OF THE MARAQUE NOBODY WANTED TO COOK BECAUSE THE KITE WENT TO RESTORE THE UGLY CULINARY CUBE FOR THE GRAPE GRAPE CULIAO AWEONAO STUPID AND THE CONVERSATION GOES TO SUCK THE PICO SON OF THE TRAGASLBES ATE MUCUS FROM THE PERUVIAN CULIAO");
+    }
+
+    if(message.content == 'jerex quote 4') {
+        message.channel.sendMessage("BUT PORK CONCHETUMARE AS YOU HAPPEN TO LEAVE SO VOTED TO THE CHANNEL PERKIN TOAD OF THE YUTA DO NOT REMEMBER THAT YOU HAVE MORE THAN 14,000 PEOPLE SUBSCRIBED TO THIS CHANNEL AND PIG CULIAO OR WHAT WEA TURKEY CULIAO IS BAD OF THE HEAD HEY WEON UP HEY 7 ALREADY XDXDXDXD SHUT UP TOAD CULIAO BROTHER OF YOUR SISTER SON OF THE SAPA CULIA OF THE CORNER THAT SELLS COCHAYUYOS OF THE SEA OF TONGO AND PERKIN SON OF SAPA CULIA EAT BLACK COCK");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
