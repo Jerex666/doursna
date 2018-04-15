@@ -961,7 +961,7 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'gay') {
-        message.channel.sendMessage("kiroATLERELIX10")
+        message.channel.sendMessage("quinnsane")
     }
 
     if(message.content == 'kiroATLERELIX10') {
