@@ -1143,6 +1143,42 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex quote 4') {
         message.channel.sendMessage("BUT PORK CONCHETUMARE AS YOU HAPPEN TO LEAVE SO VOTED TO THE CHANNEL PERKIN TOAD OF THE YUTA DO NOT REMEMBER THAT YOU HAVE MORE THAN 14,000 PEOPLE SUBSCRIBED TO THIS CHANNEL AND PIG CULIAO OR WHAT WEA TURKEY CULIAO IS BAD OF THE HEAD HEY WEON UP HEY 7 ALREADY XDXDXDXD SHUT UP TOAD CULIAO BROTHER OF YOUR SISTER SON OF THE SAPA CULIA OF THE CORNER THAT SELLS COCHAYUYOS OF THE SEA OF TONGO AND PERKIN SON OF SAPA CULIA EAT BLACK COCK");
     }
+
+    if(message.content == 'help dour sna') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/youcrossedthelineweonputofuckingthereisputowhocaresfucki.js");
+    }
+
+    if(message.content == 'wank') {
+        message.channel.sendMessage("ze voidah is a wanker lol");
+    }
+
+    if(message.content == 'wanker') {
+        message.channel.sendMessage("u lol :joy: so funni lol :joy::joy::joy:");
+    }
+
+    if(message.content == 'regan wank') {
+        message.channel.sendMessage("regan wank's to the goonies");
+    }
+
+    if(message.content == 'dour sna site') {
+        message.channel.sendMessage("https://zevoidah.github.io/doursna");
+    }
+
+    if(message.content == 'dour sna inv') {
+        message.channel.sendMessage("https://zevoidah.github.io/doursna");
+    }
+
+    if(message.content == 'dour sna invite') {
+        message.channel.sendMessage("https://zevoidah.github.io/doursna");
+    }
+
+    if(message.content == 'ze voidah site') {
+        message.channel.sendMessage("https://zevoidah.github.io");
+    }
+
+    if(message.content == 'dour sna help') {
+        message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/youcrossedthelineweonputofuckingthereisputowhocaresfucki.js");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
