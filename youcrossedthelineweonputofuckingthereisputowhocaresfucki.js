@@ -1179,6 +1179,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'dour sna help') {
         message.channel.sendMessage("https://github.com/ZeVoidah/doursna/blob/master/youcrossedthelineweonputofuckingthereisputowhocaresfucki.js");
     }
+
+    if(message.content == 'jerex quote 4') {
+        message.channel.sendMessage("BUT PORK CONCHETUMARE AS YOU HAPPEN TO LEAVE SO VOTED TO THE CHANNEL PERKIN TOAD OF THE YUTA DO NOT REMEMBER THAT YOU HAVE MORE THAN 14,000 PEOPLE SUBSCRIBED TO THIS CHANNEL AND PIG CULIAO OR WHAT WEA TURKEY CULIAO IS BAD OF THE HEAD HEY WEON UP HEY 7 ALREADY XDXDXDXD SHUT UP TOAD CULIAO BROTHER OF YOUR SISTER SON OF THE SAPA CULIA OF THE CORNER THAT SELLS COCHAYUYOS OF THE SEA OF TONGO AND PERKIN SON OF SAPA CULIA EAT BLACK COCK \h https://scontent.fscl13-1.fna.fbcdn.net/v/t1.0-9/30706203_908969319284716_2748385508044681296_n.jpg?_nc_cat=0&oh=90bbb7653167bcd6949da90d105abdb9&oe=5B6EBA7F")
+    }
+
+    if(message.content == 'jerex quote 1') {
+        message.channel.sendMessage("hijo de la puta enfermo conchetumare weno pal tulon sapo culiao bastardo de mierda maraco conchetumare anda a wear a otro lao mono conchetumare te voy a hacer cagar a balasos en el ano tonto culiao vo no sabi con quien te meti tonto culiao weonao hijo de la maraca que nadie se quiso culiar porque tenia el choro pasao a reineta la fea culia chancha conchetumare sapo culiao aweonao tonto y la conchetumare anda a chupar pico hijo de la tragasables come moco de la peruana culia")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
