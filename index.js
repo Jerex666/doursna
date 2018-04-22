@@ -721,9 +721,9 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'quinn') {
-        message.channel.sendMessage('did you mean that disgusting skinny emo faggot who ask you to kill himself?');
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/334281359541665802/437647219760431104/gamerforever_needs_doursna_in_his_life_me_either_xd.png');
     }
-
+//did you mean that disgusting skinny emo faggot who ask you to kill himself? <<old cmnd
     if(message.content == 'quinnsane') {
         message.channel.sendMessage('guitar here smash xd ok xdd');
     }
