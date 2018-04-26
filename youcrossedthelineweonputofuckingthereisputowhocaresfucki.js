@@ -856,6 +856,22 @@ bot.on('message', function(message) {
         message.channel.sendMessage('fine fuck off you off here leave me alone now');
     }
 
+    if(message.content == 'quinn quote 1') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
+    if(message.content == 'quinnsane quote 1') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
+    if(message.content == 'quinnquote 1') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
+    if(message.content == 'quinnquote') {
+        message.channel.sendMessage('fine fuck off you off here leave me alone now');
+    }
+
     if(message.content == 'kirbo') {
         message.channel.sendMessage('xdipper\'s discord account, kirbo#8621 1st kirbo, kirbo#8019 2nd kirbo');
     }
@@ -1204,6 +1220,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
         message.channel.sendMessage("I never use cussing in 22 years - but the gloves are off. Listen you son of a bitch. What the fuck's your problem? You wanna sit here and say that I'm a goddamn fucking Russian? You get in my face with that I'll beat your goddamn ass you son of a bitch. You piece of shit. You fucking goddamn fucker. Listen fuckhead, you've fucking crossed the line. Get that through your goddamn fucking head. Stop pushing your shit. You're the people who've fucked this country over and gangraped the shit out of it and lost an election, so stop shooting your mouth off claiming that I'm the enemy. You got that you goddamn son of a bitch. Fill your hand, I'm sorry but I'm done. You start calling me a foreign agent, those are fucking fighting words, excuse me.")
     }
 
+    if(message.content == 'quinnquote 2') {
+        message.channel.sendMessage("I never use cussing in 22 years - but the gloves are off. Listen you son of a bitch. What the fuck's your problem? You wanna sit here and say that I'm a goddamn fucking Russian? You get in my face with that I'll beat your goddamn ass you son of a bitch. You piece of shit. You fucking goddamn fucker. Listen fuckhead, you've fucking crossed the line. Get that through your goddamn fucking head. Stop pushing your shit. You're the people who've fucked this country over and gangraped the shit out of it and lost an election, so stop shooting your mouth off claiming that I'm the enemy. You got that you goddamn son of a bitch. Fill your hand, I'm sorry but I'm done. You start calling me a foreign agent, those are fucking fighting words, excuse me.")
+    }
+
     if(message.content == 'quinnsane quote 2') {
         message.channel.sendMessage("I never use cussing in 22 years - but the gloves are off. Listen you son of a bitch. What the fuck's your problem? You wanna sit here and say that I'm a goddamn fucking Russian? You get in my face with that I'll beat your goddamn ass you son of a bitch. You piece of shit. You fucking goddamn fucker. Listen fuckhead, you've fucking crossed the line. Get that through your goddamn fucking head. Stop pushing your shit. You're the people who've fucked this country over and gangraped the shit out of it and lost an election, so stop shooting your mouth off claiming that I'm the enemy. You got that you goddamn son of a bitch. Fill your hand, I'm sorry but I'm done. You start calling me a foreign agent, those are fucking fighting words, excuse me.")
     }
@@ -1214,6 +1234,34 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
 
     if(message.content == 'quinnface') {
         message.channel.sendMessage("You get in my face with that I'll beat your goddamn ass you son of a bitch.\nhttps://cdn.discordapp.com/attachments/402804468871200778/437694083419471894/hello_mr_bean.jpg")
+    }
+
+    if(message.content == 'no shit nigga') {
+        message.channel.sendMessage("https://youtu.be/IuIjluCOkrY?t=333")
+    }
+
+    if(message.content == 'xdipper quote 13') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/329645578956832770/437481424577363971/8FQPukXoQdGJwAAAAASUVORK5CYII.png")
+    }
+
+    if(message.content == 'quinnpic') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/333757134648901632/438835339793006622/AJLlDp2J9ww60ARDKDCtqYhplK2jBeANqnrJLXJq4ws900-mo-c-c0xffffffff-rj-k-no.png")
+    }
+
+    if(message.content == 'quinnsalty') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/411578754008350732/438835443455492098/salty.gif")
+    }
+
+    if(message.content == 'bye2') {
+        message.channel.sendMessage("bot says adiosito cagon as you say that shit you invented suck and piss")
+    }
+
+    if(message.content == 'bye 2') {
+        message.channel.sendMessage("bot says adiosito cagon as you say that shit you invented suck and piss")
+    }
+
+    if(message.content == 'bye too') {
+        message.channel.sendMessage("bot says adiosito cagon as you say that shit you invented suck and piss")
     }
 });
 
