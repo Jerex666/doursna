@@ -1263,6 +1263,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'bye too') {
         message.channel.sendMessage("bot says adiosito cagon as you say that shit you invented suck and piss")
     }
+
+    if(message.content == 'bye1') {
+        message.channel.sendMessage("bye bitch bitch fucking bitch rat boy puto de mierda y jerex")
+    }
+
+    if(message.content == 'bye 1') {
+        message.channel.sendMessage("bye bitch bitch fucking bitch rat boy puto de mierda y jerex")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
