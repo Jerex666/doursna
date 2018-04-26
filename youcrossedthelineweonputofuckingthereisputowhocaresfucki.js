@@ -1187,6 +1187,34 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex quote 1') {
         message.channel.sendMessage("hijo de la puta enfermo conchetumare weno pal tulon sapo culiao bastardo de mierda maraco conchetumare anda a wear a otro lao mono conchetumare te voy a hacer cagar a balasos en el ano tonto culiao vo no sabi con quien te meti tonto culiao weonao hijo de la maraca que nadie se quiso culiar porque tenia el choro pasao a reineta la fea culia chancha conchetumare sapo culiao aweonao tonto y la conchetumare anda a chupar pico hijo de la tragasables come moco de la peruana culia")
     }
+
+    if(message.content == 'xdipper quote 10') {
+        message.channel.sendMessage("jerex men lo siento a todos de lo bullymods y de que me comporte como un niño rata bien idiota lamento a brian y por robar skins que no son mios y lo siento mucho los skins de brian ps2 estan muy buenos me inspiran hacer videos como el yo antes cuando lo conoci me inspire a hacer videos como el gracias a brian se hacer videos de peleas y con camara sin que se vea jimmy hopkins lo lamento quiero volver hacer lo mismo de antes porfavor Party")
+    }
+
+    if(message.content == 'xdipper quote 11') {
+        message.channel.sendMessage("haha not you when you learn you will see my channel has subscribers I will show you that nerd flower fucking your friends are going to fall hahahah adiosito cagon as you say that shit you invented suck and piss hhaha you are going to see that flower of nerd fucking are a loser wait the video enjoy it and give it a like and say that I live in poor house stop lying imbecile hahahah and if I look like yaman yet you have not seen me that's why they say to me imbecil man you will see hahah I do not worry about bully or your shit but I felt like doing it idiot")
+    }
+
+    if(message.content == 'xdipper quote 12') {
+        message.channel.sendMessage("haha say your futuristic husband na do not think I want to go out with a fat dove sucks pija enjoy the video you won't win anything yet the imbecile game will not see you as you really never look like your character jerex until I think if you saw your own character would go away because you are an imbecile otaku you say when you played sonic and rhym tengoku also you do straws with the animes good upload my video until diosito chau chau you're a badly shit you sore I'll talk to you suck pija !!!!! ! never be pregnant, your mother, you were just a shit, you killed yourself, and you said goodbye to your boyfriend, jeregay sinclairesdfsfsd")
+    }
+
+    if(message.content == 'quinn quote 2') {
+        message.channel.sendMessage("I never use cussing in 22 years - but the gloves are off. Listen you son of a bitch. What the fuck's your problem? You wanna sit here and say that I'm a goddamn fucking Russian? You get in my face with that I'll beat your goddamn ass you son of a bitch. You piece of shit. You fucking goddamn fucker. Listen fuckhead, you've fucking crossed the line. Get that through your goddamn fucking head. Stop pushing your shit. You're the people who've fucked this country over and gangraped the shit out of it and lost an election, so stop shooting your mouth off claiming that I'm the enemy. You got that you goddamn son of a bitch. Fill your hand, I'm sorry but I'm done. You start calling me a foreign agent, those are fucking fighting words, excuse me.")
+    }
+
+    if(message.content == 'quinnsane quote 2') {
+        message.channel.sendMessage("I never use cussing in 22 years - but the gloves are off. Listen you son of a bitch. What the fuck's your problem? You wanna sit here and say that I'm a goddamn fucking Russian? You get in my face with that I'll beat your goddamn ass you son of a bitch. You piece of shit. You fucking goddamn fucker. Listen fuckhead, you've fucking crossed the line. Get that through your goddamn fucking head. Stop pushing your shit. You're the people who've fucked this country over and gangraped the shit out of it and lost an election, so stop shooting your mouth off claiming that I'm the enemy. You got that you goddamn son of a bitch. Fill your hand, I'm sorry but I'm done. You start calling me a foreign agent, those are fucking fighting words, excuse me.")
+    }
+
+    if(message.content == 'quinnskinny') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/411578754008350732/438838922886250507/unknown.png")
+    }
+
+    if(message.content == 'quinnface') {
+        message.channel.sendMessage("You get in my face with that I'll beat your goddamn ass you son of a bitch.\nhttps://cdn.discordapp.com/attachments/402804468871200778/437694083419471894/hello_mr_bean.jpg")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
