@@ -1299,6 +1299,22 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'kamizilla') {
         message.channel.sendMessage("mr stutter aka nigr XDDDDDDDDDDDDDDDDDDDDDD")
     }
+
+    if(message.content == 'cuck') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/402804468871200778/435107377860050955/kok.png")
+    }
+
+    if(message.content == 'dick') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/402804468871200778/435107313406443541/diick.jpg")
+    }
+
+    if(message.content == 'cum') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/402804468871200778/435107504116989962/1693.jpg")
+    }
+
+    if(message.content == 'shitty rvth') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/318867273207250944/427545904090972170/5b31cef3a2482e7f41b1e1d11a9c01a8.png")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
