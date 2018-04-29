@@ -1315,6 +1315,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'shitty rvth') {
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/318867273207250944/427545904090972170/5b31cef3a2482e7f41b1e1d11a9c01a8.png")
     }
+
+    if(message.content == 'jerex quote 6') {
+        message.channel.sendMessage("in the street you can see the real ones drowner culiao tapao in mucus ojala sepai defend you pendejo culiao pa not earn me the moneas so easy XD")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
