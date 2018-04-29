@@ -1280,6 +1280,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
         message.channel.sendMessage("fuck you jerex y undeadsolfier y kamizila y nathan y everyone saying about me y  everyone that say i steal mods i don't go die no one cares if you lie and say that i steal mods bitch fucking pendejo")
     }
 
+    if(message.content == "xdipper quote 16") {
+        message.channel.sendMessage("bitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loservvvvvbitch son of a bitch i want you to die please unlock your loservvvvvvbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your loserbitch son of a bitch i want you to die please unlock your lose")
+    }
+
     if(message.content == 'toony quote') {
         message.channel.sendMessage("NIGAAAH DONT SAY THAT AGHHHHHHHH YOUR EMBARASINF ME YOU FUCKING SPANISH CUCK UGH DOUCHEBAG AGHHHHH Y U GOTTA DO ME LIKE THAT FUCK FUCK NOW EVERYONE KNOWS THAT IM GAY FUCKKKKK FUCK FAG CUNT SHIT MARICON PUTA JOTO PENDEJO HIJO DE MIERDA FUCK FUCK FUCK HE CROSSED THE LINE WEONES DE FUCKING PUTO BITCHES FUCK FAG SHIT CUCK FUCKKKKKKKKKKK")
     }
