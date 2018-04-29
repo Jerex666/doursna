@@ -1271,6 +1271,30 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'bye 1') {
         message.channel.sendMessage("bye bitch bitch fucking bitch rat boy puto de mierda y jerex")
     }
+
+    if(message.content == 'xdipper quote 14') {
+        message.channel.sendMessage("bitch son of a bitch i want you to die please unlock your loser you're that guy fucking idiot fuck fucker i hate you so much go die you motherfucking fuck human trash you piece of shit fuck you fuck off im not xdipper you fucking hijo de una prostituta i will find you and kill the your family pendejo i will kill you one day just wait for it you will be killed by me pendejo you are so dumb me fuck fucking hell you are dumb i hate you so much no one cares about you no one cares about nothing you ever done in intire life because you are dumb and i want you to die pendejo i am smarter than you fucker moron maldito idiota madre bash es tu madre sótano tu vives Sé que a tu universidad a nadie le importa serás más flexible cuando crezcas cada vez que eso pase porque tu apesta")
+    }
+
+    if(message.content == "xdipper quote 15") {
+        message.channel.sendMessage("fuck you jerex y undeadsolfier y kamizila y nathan y everyone saying about me y  everyone that say i steal mods i don't go die no one cares if you lie and say that i steal mods bitch fucking pendejo")
+    }
+
+    if(message.content == 'toony quote') {
+        message.channel.sendMessage("NIGAAAH DONT SAY THAT AGHHHHHHHH YOUR EMBARASINF ME YOU FUCKING SPANISH CUCK UGH DOUCHEBAG AGHHHHH Y U GOTTA DO ME LIKE THAT FUCK FUCK NOW EVERYONE KNOWS THAT IM GAY FUCKKKKK FUCK FAG CUNT SHIT MARICON PUTA JOTO PENDEJO HIJO DE MIERDA FUCK FUCK FUCK HE CROSSED THE LINE WEONES DE FUCKING PUTO BITCHES FUCK FAG SHIT CUCK FUCKKKKKKKKKKK")
+    }
+
+    if(message.content == 'toony') {
+        message.channel.sendMessage("*xdipper stole his profile pic*")
+    }
+
+    if(message.content == 'kamizilla quote') {
+        message.channel.sendMessage("the- the name- **GEIM**")
+    }
+
+    if(message.content == 'kamizilla') {
+        message.channel.sendMessage("mr stutter aka nigr XDDDDDDDDDDDDDDDDDDDDDD")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
