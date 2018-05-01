@@ -1319,6 +1319,18 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex quote 6') {
         message.channel.sendMessage("in the street you can see the real ones drowner culiao tapao in mucus ojala sepai defend you pendejo culiao pa not earn me the moneas so easy XD")
     }
+
+    if(message.content == 'jerex quote 7') {
+        message.channel.sendMessage("OE PENDEJO PIKO PAL LETS GIVE JUICE QUEER CULIAO SAPO Eat my QUESILLO PICO effeminate PIKO PAL HACETE MAN AND MORE UP BEHIND A Keyboard CULIAO INSURANCE scared shitless IN REAL LIFE IF YOU SEE THE STREETS YOU KILL WITH MY MACHINE GUNS PS2 BECAUSE Now I crossed the line GIL SAPO PIKO PAL DRONE reculiao SON MARACA nobody ever because he wanted culiar choro pasao A REINETA LA FEA RECHUCHETUMARE CHANCHA culia")
+    }
+
+    if(message.content == 'jerex quote 8') {
+        message.channel.sendMessage("ROCKSTAR HIJO DE LA PERRA QUE CAMBIA LA BETA DE BULLY CTM QUE WEA TENGO CUALQUIER RABIA CTM ME QUIERO PURO MATAR CTM ROCKSTAR CULIAO SI LA BETA ESTABA ENTERA DE PANA GILES CULIAOS, VOY A IR A CHANTARLE LA PICHULA A LOS GILES CULIAOS AAAAAAGRIAAA MI BBBEEEEETTTAAAA Y YA NI SE PUEDE RECREAR QUE WEA MAS MARACA QUE CANCELAR SKILLS QUE WEA CTMMM ROCKSTAR KLOO")
+    }
+
+    if(message.content == 'jerex quote 9') {
+        message.channel.sendMessage("pendejo reculiao poser and reconcha your mom weon son of a bitch mangy dog and conchetumare son of the bitch of the ugliest maraca nobody ever wanted culiar because he had the fox smelling Pippin and the hole with syphilis conchetumare fucking asshole")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
