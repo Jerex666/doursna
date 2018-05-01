@@ -1331,6 +1331,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex quote 9') {
         message.channel.sendMessage("pendejo reculiao poser and reconcha your mom weon son of a bitch mangy dog and conchetumare son of the bitch of the ugliest maraca nobody ever wanted culiar because he had the fox smelling Pippin and the hole with syphilis conchetumare fucking asshole")
     }
+
+    if(message.content == 'jerex quote 10') {
+        message.channel.sendMessage("OEOEOEOE ESTOY CHATO DE ESTA WEA CONCHETUMARE YO OPINO QUE ORGANIZEMOS UNA MARCHA ALTIRO PA DARLE CARA A LOS DE ROCKSTAR LA PULENTA HERMANO SE DONDE VIVEN LOS GERENTES Y TODA LA WEA COMPARE ASI QUE HAY QUE PURO IR A ACERLES NOTAR QUE EL PUEBLO ESTA PRESENTE NO TAMOS NA PAL WEBEO VAYAN CON CUIDAO HERMANO")
+    }
+
+    if(message.content == 'jerex quote 11') {
+        message.channel.sendMessage("OEOEOEOE I AM CHATO OF THIS WEA CONCHETUMARE I THOUGHT THAT WE ORGANIZE A JOURNEY TO REACH UP TO ROCKSTAR THE PULSE BROTHER WHERE THE MANAGERS LIVE AND ALL THE WEA COMPARE SO I HAVE TO PURO GO TO ACCEPT TO NOTICE THAT THE PEOPLE ARE PRESENT WE DO NOT TAKE NA PAL WEBEO GO WITH CARE BROTHER")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
