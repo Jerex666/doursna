@@ -1339,6 +1339,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex quote 11') {
         message.channel.sendMessage("OEOEOEOE I AM CHATO OF THIS WEA CONCHETUMARE I THOUGHT THAT WE ORGANIZE A JOURNEY TO REACH UP TO ROCKSTAR THE PULSE BROTHER WHERE THE MANAGERS LIVE AND ALL THE WEA COMPARE SO I HAVE TO PURO GO TO ACCEPT TO NOTICE THAT THE PEOPLE ARE PRESENT WE DO NOT TAKE NA PAL WEBEO GO WITH CARE BROTHER")
     }
+
+    if(message.content == 'jerex quote 12') {
+        message.channel.sendMessage("OE PENDEJO CONCHETUMARE DEJA DE DAR JUGO MARICON CULIAO SAPO COMEME EL QUESILLO DEL PICO AFEMINADO CONCHETUMARE HACETE HOMBRE Y MAS ENCIMA DETRAS DE UN TECLADO EL CULIAO DE SEGURO CAGADO DE MIEDO EN LA VIDA REAL SI TE VEO POR LAS CALLES TE MATARE CON MIS MACHINE GUNS PS2 PORQUE AHORA SI QUE CRUZASTE LA LINEA GIL SAPO CONCHETUMARE ZANGANO RECULIAO HIJO DE LA MARACA QUE NUNCA NADIE SE QUISO CULIAR PORQUE TENIA EL CHORO PASAO A REINETA LA FEA RECHUCHETUMARE CHANCHA CULIA")
+    }
+
+    if(message.content == 'jerex quote 13') {
+        message.channel.sendMessage("come here and make my mucus suck me the coconuts death son of the bitch aweonao silly reconchetumare son of the penis badly put")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
