@@ -1347,6 +1347,30 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex quote 13') {
         message.channel.sendMessage("come here and make my mucus suck me the coconuts death son of the bitch aweonao silly reconchetumare son of the penis badly put")
     }
+
+    if(message.content == 'jerex quote 14') {
+        message.channel.sendMessage("I pass you by the piko pendejo ugly culiao give me face in the street better conchetumare I'm going to pitearte you with bullet kuando fence pa quilicura pao and the conchatumare andale saw if that at any time you will get the plomazos loji ctm")
+    }
+
+    if(message.content == 'lazlow') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/433071919684911105/442071201641267230/waaw.png")
+    }
+
+    if(message.content == 'kiro quote') {
+        message.channel.sendMessage("dwarf fucking and the concha of your sister I intend to make plans chidoris and you take away the fucking moderator fuck the mother recre who re thousand well pario fucking fucking fucking")
+    }
+
+    if(message.content == 'Swegta') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/442181283364339722/442505877849636894/Dbl0SvJX4AEti4q.png")
+    }
+
+    if(message.content == 'kamizilla quote') {
+        message.channel.sendMessage("has cruzado la línea weon puto si crees que eres mejor, es mejor que te largues corriendo de aquí o de mierda, nigga perra tu mamá gay aaaaaaaaaaaahhh weon puto follando hella joder maldito nazi negro hijo de un pequeño mocka lechón perra puto idiota pendejo negro idiota gilipollas ir a la mierda a su madre gay aaaahhh puta pendejo follando mierda idiota hijo de puta mierda puta verde asno que mereces morir pendejo no irás a ninguna parte antes de que alguien te mate, ¿enten-follando-dido? FOLLANDO BASURA FOLLANDO TU COMPAÑÍA NO QUIERO TU DINERO NO QUIERO QUE TUS MODS SE CARGAN EL INFIERNO YA")
+    }
+
+    if(message.content == 'jerex quote 15') {
+        message.channel.sendMessage("otaku reculiao virgin chupapene black fucking virgin culiao re chuchetumare sure you did not touch a vagina in your life guaton that is jerking off with chinese monkeys virgin fucking maricon zangano pendejo reculiao fucking passed to poto son of the maraca that no one wanted to fuck because he had a vagina passed to reineta conchetumare I will go to your house and I will cut your shit legs and the beak and I will send the beak to your mom otaku bastard conchetumare chupapija")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
