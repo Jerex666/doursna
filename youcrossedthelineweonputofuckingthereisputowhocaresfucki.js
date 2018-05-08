@@ -1364,12 +1364,20 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/442181283364339722/442505877849636894/Dbl0SvJX4AEti4q.png")
     }
 
-    if(message.content == 'kamizilla quote') {
+    if(message.content == 'kamizilla quote 2') {
         message.channel.sendMessage("has cruzado la línea weon puto si crees que eres mejor, es mejor que te largues corriendo de aquí o de mierda, nigga perra tu mamá gay aaaaaaaaaaaahhh weon puto follando hella joder maldito nazi negro hijo de un pequeño mocka lechón perra puto idiota pendejo negro idiota gilipollas ir a la mierda a su madre gay aaaahhh puta pendejo follando mierda idiota hijo de puta mierda puta verde asno que mereces morir pendejo no irás a ninguna parte antes de que alguien te mate, ¿enten-follando-dido? FOLLANDO BASURA FOLLANDO TU COMPAÑÍA NO QUIERO TU DINERO NO QUIERO QUE TUS MODS SE CARGAN EL INFIERNO YA")
     }
 
     if(message.content == 'jerex quote 15') {
         message.channel.sendMessage("otaku reculiao virgin chupapene black fucking virgin culiao re chuchetumare sure you did not touch a vagina in your life guaton that is jerking off with chinese monkeys virgin fucking maricon zangano pendejo reculiao fucking passed to poto son of the maraca that no one wanted to fuck because he had a vagina passed to reineta conchetumare I will go to your house and I will cut your shit legs and the beak and I will send the beak to your mom otaku bastard conchetumare chupapija")
+    }
+
+    if(message.content == 'sad3') {
+        message.channel.sendMessage("HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA! ZOU ZAHAAHAHAHAHAHAHAHAH")
+    }
+
+    if(message.content == 'jerex story 2') {
+        message.channel.sendMessage("UN DIA IBA KAMINANDO X LA CALLE COMO CUALKIER WN CAMINA XD Y DEPRONTO ME ENCUENTRO CON UNA MUJER MUY LINDA DE PELO y AHI Y LE DIJE OYE KOSITA LINDA OYE KOSITA HERMOSA VEN PA AKA Y CHUPA ESTA KOSA SABRSA XDD Y LA PERRA KL ESTABA CON SU POLOLO UN WEON DE 3 METRO Y ME DIJO OYE WEON CULIAO QUE HUEA TE PASA CON MI MINA Y YO LE DIJE YA K HUEA BASTARDO KONCHETUMARE Y SAQUE MI AK-47 Y LO MATE AL KLY ME DI CUENTA QUE VENIAN LOS PAKOS ASI QUE ME FUI KORRIENDO COMO NARUTO HACIA UN RESTAURANT PORK ESTABA CAGAO DEL HAMBRE ENTRE Y LE DIJE AL GARZON KL OOEE AKI VENDEN SOPAIPAS Y EL HUEON ME DIJO NO WN COMO VAMOS A VENDER SOPAIPILLAS AKA YA ENTONES ME PIKE A CHORO Y LE PUSE LA MEA PATA EN EL OSICO Y DESPUES ME PUSE A CORRER COMO NARUTO Y UNA VIEJA KLA ME EMPUJO Y LE DIJE YA K HUEA MARACA CULIA Y LE MANDE SENDO COMBO EN EL OSIKOO DESPUES DE MANDARLE EL COMBO EN EL OSIKO LA VIEJA KLA MUY BASTARDA SAPA Y LA PERRA K LA PARIO LLAMO A UN EJERCITO DE ABUELAS PERO YO COMO SOY MA VIO LLAME A TOOS MIS BROS, LAS VIEJAS KLS ERAN TERRIBLE AGUJA Y NOS SAKAROON LA CONCHETUMARE CON SUS BASTOONES Y SUS CARROS DE FERIA PERO A UNOS DE MIS AMIGOS LE DIO A HUEA Y LES HIZO UN HAMEHAMEHA A TOAS LAS VIEJAS KLAS Y GANAMOS LA GUERRA DESPUES ME TOME UN VASITO DE BEBIDA KOON LOS CABROS PORQUE ESTABAMOS MUY CANSADOS Y LE DEJE 10 LUCAS DE PROPINA AL RESTORANT KLO DESPUES KON LOS CABROS NOS IBAMOS A IR, PERO SE ESCUCHO UN CUMBION TERRIBLE BKNO Y ERA UN KARAOKE KLO Y NOS FUIMO PA ALLA E IBAMOS DE PANA CON LOS KABROS NOS BAILAMOS LOS MEOS PASOS. DESPUES KUANDO ESTABAMOS BAILANDO NO ME I CUENTA Y ME SAKE LA COONCHETUMARE Y UN PENDEJO KLO SE ESTABA RIENDO DE MI FUI Y LE PEGUE EL SENDO WATE AL CABRO KLO Y LA MARAKA KLA DE LA MAMA ME DIJO K LE VENI A PEGARLE A MI CABRO CHIKO YO LE DIJE YA K HUEA MARACA Y LE MANDE EL SENDO PICHULAZO LA HUEONA LLAMO A LOS PAKOS Y ME PUSE UN PETARDO EN EL OYO Y ME FUI A LA CHUCHA")
     }
 });
 
