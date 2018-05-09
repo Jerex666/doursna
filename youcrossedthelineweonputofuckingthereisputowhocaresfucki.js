@@ -1349,9 +1349,9 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     }
 
     if(message.content == 'jerex quote 14') {
-        message.channel.sendMessage("I pass you by the piko pendejo ugly culiao give me face in the street better conchetumare I'm going to pitearte you with bullet kuando fence pa quilicura pao and the conchatumare andale saw if that at any time you will get the plomazos loji ctm")
+        message.channel.sendMessage("te paso por el piko pendejo culiao feo dame cara en la calle mejor conchetumare te voy a pitearte a balazo kuando valla pa quilicura pao y la conchatumare andale vio si que en cualkier momento te van a llegar los plomazos loji ctm te voy a chocar con un tren conchetumare si pasai voy a hacer una masacre contigo y toa tu familia zangano reculiao")
     }
-
+//I pass you by the piko pendejo ugly culiao give me face in the street better conchetumare I'm going to pitearte you with bullet kuando fence pa quilicura pao and the conchatumare andale saw if that at any time you will get the plomazos loji ctm
     if(message.content == 'lazlow') {
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/433071919684911105/442071201641267230/waaw.png")
     }
@@ -1372,12 +1372,32 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
         message.channel.sendMessage("otaku reculiao virgin chupapene black fucking virgin culiao re chuchetumare sure you did not touch a vagina in your life guaton that is jerking off with chinese monkeys virgin fucking maricon zangano pendejo reculiao fucking passed to poto son of the maraca that no one wanted to fuck because he had a vagina passed to reineta conchetumare I will go to your house and I will cut your shit legs and the beak and I will send the beak to your mom otaku bastard conchetumare chupapija")
     }
 
+    if(message.content == 'sad1') {
+        message.channel.sendMessage("hah! zou zad!")
+    }
+
     if(message.content == 'sad3') {
         message.channel.sendMessage("HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA! ZOU ZAHAAHAHAHAHAHAHAHAH")
     }
 
     if(message.content == 'jerex story 2') {
         message.channel.sendMessage("UN DIA IBA KAMINANDO X LA CALLE COMO CUALKIER WN CAMINA XD Y DEPRONTO ME ENCUENTRO CON UNA MUJER MUY LINDA DE PELO y AHI Y LE DIJE OYE KOSITA LINDA OYE KOSITA HERMOSA VEN PA AKA Y CHUPA ESTA KOSA SABRSA XDD Y LA PERRA KL ESTABA CON SU POLOLO UN WEON DE 3 METRO Y ME DIJO OYE WEON CULIAO QUE HUEA TE PASA CON MI MINA Y YO LE DIJE YA K HUEA BASTARDO KONCHETUMARE Y SAQUE MI AK-47 Y LO MATE AL KLY ME DI CUENTA QUE VENIAN LOS PAKOS ASI QUE ME FUI KORRIENDO COMO NARUTO HACIA UN RESTAURANT PORK ESTABA CAGAO DEL HAMBRE ENTRE Y LE DIJE AL GARZON KL OOEE AKI VENDEN SOPAIPAS Y EL HUEON ME DIJO NO WN COMO VAMOS A VENDER SOPAIPILLAS AKA YA ENTONES ME PIKE A CHORO Y LE PUSE LA MEA PATA EN EL OSICO Y DESPUES ME PUSE A CORRER COMO NARUTO Y UNA VIEJA KLA ME EMPUJO Y LE DIJE YA K HUEA MARACA CULIA Y LE MANDE SENDO COMBO EN EL OSIKOO DESPUES DE MANDARLE EL COMBO EN EL OSIKO LA VIEJA KLA MUY BASTARDA SAPA Y LA PERRA K LA PARIO LLAMO A UN EJERCITO DE ABUELAS PERO YO COMO SOY MA VIO LLAME A TOOS MIS BROS, LAS VIEJAS KLS ERAN TERRIBLE AGUJA Y NOS SAKAROON LA CONCHETUMARE CON SUS BASTOONES Y SUS CARROS DE FERIA PERO A UNOS DE MIS AMIGOS LE DIO A HUEA Y LES HIZO UN HAMEHAMEHA A TOAS LAS VIEJAS KLAS Y GANAMOS LA GUERRA DESPUES ME TOME UN VASITO DE BEBIDA KOON LOS CABROS PORQUE ESTABAMOS MUY CANSADOS Y LE DEJE 10 LUCAS DE PROPINA AL RESTORANT KLO DESPUES KON LOS CABROS NOS IBAMOS A IR, PERO SE ESCUCHO UN CUMBION TERRIBLE BKNO Y ERA UN KARAOKE KLO Y NOS FUIMO PA ALLA E IBAMOS DE PANA CON LOS KABROS NOS BAILAMOS LOS MEOS PASOS. DESPUES KUANDO ESTABAMOS BAILANDO NO ME I CUENTA Y ME SAKE LA COONCHETUMARE Y UN PENDEJO KLO SE ESTABA RIENDO DE MI FUI Y LE PEGUE EL SENDO WATE AL CABRO KLO Y LA MARAKA KLA DE LA MAMA ME DIJO K LE VENI A PEGARLE A MI CABRO CHIKO YO LE DIJE YA K HUEA MARACA Y LE MANDE EL SENDO PICHULAZO LA HUEONA LLAMO A LOS PAKOS Y ME PUSE UN PETARDO EN EL OYO Y ME FUI A LA CHUCHA")
+    }
+
+    if(message.content == 'xdipper quote 17') {
+        message.channel.sendMessage("they are delighted with the wedding party between Jeremy and two gay cojansen the unfortunate and homosexual gawky chick and boy no longer pendejero understand that the answer is yes, and I'll find you and I'll kill you machine guns if you save me I'll finish with a bitch that I care about offensive skin Losing me, looks like your kids are not just fucking fucked who interest me to offend me will lose my lost skin as a boy and not just me who is gay and have to be invited by me to make OMON a party. My son no longer pendejero I understand and so will find you and kill machine guns if you hug me I go to bitch to be offensive PR My skin Ozer looks like a child -my boy, not my fucking pederast that makes me have to do the trash in the empty Jegay Valley. Noviete in the empty Jegay Valley. Noviete in the Jegay Valley")
+    }
+
+    if(message.content == 'XD') {
+        message.channel.sendMessage("xD")
+    }
+
+    if(message.content == 'xD') {
+        message.channel.sendMessage("XD")
+    }
+
+    if(message.content == 'Xd') {
+        message.channel.sendMessage("xd")
     }
 });
 
