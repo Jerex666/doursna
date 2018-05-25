@@ -1420,6 +1420,11 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'tula') {
         message.channel.sendMessage("Tula, la bebida energetica de todos los chilenos que importa el nombre? ¡Juan podrias pasarme la tula ancha!? hay va la tula ¿dijiste tula? nueva tula boca ancha sabor pomelo suave ¿que importa el nombre? .. Tula, la bebida energetica de todos los chilenos qe importa el nombre? renato, renato, bajame la tula ¿dijiste tula? porsupuesto tomas... una tula chica, nueva tula chica, para gente grande... tula, la bebida energetica de todos los chilenos, que importa el nombre??? Rodolfo tremenda tula ¿dijiste tula? Nueva bebida gigante tula de 3 litro para lo que le gusta la tula y gozan de la tula ¿Qué importa el nombre? tula, la bebida energetica de todos los chilenos, que importa el nombre??? Me encanta la tula , la tula si que me refresca , Tula te dejara impresionado =O.... Se me antoja una tula ¿dijiste tula? Yo te tengo la de siempre ¡La chicaaaa!? ¡siii! tula, la bebida energetica de todos los chilenos, que importa el nombre???.. (8) Tulaaa , empieza con TU (8) , este si que tiene tula :) . tula, la bebida energetica de todos los chilenos, que importa el nombre???")
     }
+
+    if(message.content == 'traps') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/395382530234122240/447452854756573184/27336403_1770209273000760_5615654299615041314_n.png")
+    }
+
 });
 
 bot.login(process.env.BOT_TOKEN);
