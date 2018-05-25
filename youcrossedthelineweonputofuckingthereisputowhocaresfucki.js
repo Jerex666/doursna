@@ -948,6 +948,23 @@ bot.on('message', function(message) {
         message.channel.sendMessage("gay")
     }
 
+
+    if(message.content == 'KiroATLERELIX10#0187') {
+        message.channel.sendMessage("gay")
+    }
+
+    if(message.content == 'kiroatlerelix10#0187') {
+        message.channel.sendMessage("gay")
+    }
+
+    if(message.content == 'KiroATLERELIX10') {
+        message.channel.sendMessage("gay")
+    }
+
+    if(message.content == 'kiroatlerelix10') {
+        message.channel.sendMessage("gay")
+    }
+
     if(message.content == 'nayops') {
         message.channel.sendMessage("nayops 18 is a fucking cunt and also a fucking dickhead, he stole tail's, rixator's, actedstream's, ze voidah's videos. and that's fucking sucks my 6.2 inch fucking dick.")
     }
