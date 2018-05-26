@@ -1425,6 +1425,13 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/395382530234122240/447452854756573184/27336403_1770209273000760_5615654299615041314_n.png")
     }
 
+    if(message.content == 'haimar quote') {
+        message.channel.sendMessage("IU CROUZ DE LAIN UEON PUTO FAKIN DE RIZ PUTO PUTO PENDEJERO MIS PIELES DE PS2 SON MEJORES HAHAHA CHUPAME LA PUNTA DE KA VERGA DIARROSEA EXCREMENTOSA PUTA PUTOSO")
+    }
+
+    if(message.content == 'haimar quote 1') {
+        message.channel.sendMessage("IU CROUZ DE LAIN UEON PUTO FAKIN DE RIZ PUTO PUTO PENDEJERO MIS PIELES DE PS2 SON MEJORES HAHAHA CHUPAME LA PUNTA DE KA VERGA DIARROSEA EXCREMENTOSA PUTA PUTOSO")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
