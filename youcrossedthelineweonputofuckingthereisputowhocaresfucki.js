@@ -1432,6 +1432,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'haimar quote 1') {
         message.channel.sendMessage("IU CROUZ DE LAIN UEON PUTO FAKIN DE RIZ PUTO PUTO PENDEJERO MIS PIELES DE PS2 SON MEJORES HAHAHA CHUPAME LA PUNTA DE KA VERGA DIARROSEA EXCREMENTOSA PUTA PUTOSO")
     }
+
+    if(message.content == 'kiro quote 1') {
+        message.channel.sendMessage("dwarf fucking and the concha of your sister I intend to make plans chidoris and you take away the fucking moderator fuck the mother recre who re thousand well pario fucking fucking fucking")
+    }
+
+    if(message.content == 'kiro quote 2') {
+        message.channel.sendMessage("la caca la caca la caca la caca la cacala caca la cacala cacala cacav la cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala caca")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
