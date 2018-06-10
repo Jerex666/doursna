@@ -1440,6 +1440,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'kiro quote 2') {
         message.channel.sendMessage("la caca la caca la caca la caca la cacala caca la cacala cacala cacav la cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala cacala caca")
     }
+
+    if(message.content == 'xdipper quote 17') {
+        message.channel.sendMessage("go wing malparido fuck you die wing asshole cock hahahaha loser will think q will mourn for this hahahaha continue to participate losers hahahahahh jeremy you always fuistes a useless loser and child rat exploiter of assholes swords skins farts all of you and that Peter hize I did not steal that if you lie on top but I stole shit right wing parida go I'll kill you is that you live in chile I'll despedasar who warns not betray")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
