@@ -1444,6 +1444,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'xdipper quote 18') {
         message.channel.sendMessage("go wing malparido fuck you die wing asshole cock hahahaha loser will think q will mourn for this hahahaha continue to participate losers hahahahahh jeremy you always fuistes a useless loser and child rat exploiter of assholes swords skins farts all of you and that Peter hize I did not steal that if you lie on top but I stole shit right wing parida go I'll kill you is that you live in chile I'll despedasar who warns not betray")
     }
+
+    if(message.content == 'xdipper quote 19') {
+        message.channel.sendMessage("FORGIVE, BUT THE SHIT AND IMBECIL SHITY ARE YOU IN ADVANCE YOU BLAME ME FOR THE DISLIKES THAT DO NOT INTEREST ME BECAUSE IT GIVES ME ASCO VERTE LA FACE TO GIVE ME ASCO YOUR VIDEOS")
+    }
+
+    if(message.content == 'xdipper quote 20') {
+        message.channel.sendMessage("I WAS NOT PENDEJO DATE MARICON CHUPALE THE RABO TO YOUR HUSBAND ALSO REPEAT WHAT YOUR HUSBAND SAYS THANKS FOR THE VISITS JAJAJAJAJAJAJAJJAJAJA I HAVE TO MAKE A LAUGHTER MARICON !!!")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
