@@ -1452,6 +1452,18 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'xdipper quote 20') {
         message.channel.sendMessage("I WAS NOT PENDEJO DATE MARICON CHUPALE THE RABO TO YOUR HUSBAND ALSO REPEAT WHAT YOUR HUSBAND SAYS THANKS FOR THE VISITS JAJAJAJAJAJAJAJJAJAJA I HAVE TO MAKE A LAUGHTER MARICON !!!")
     }
+
+    if(message.content == 'xdipper quote 21') {
+        message.channel.sendMessage("who thinks he is that fucking fucking fat mamon he's going to pay you'll see all his friends are going to wish they had not existed fat mamon fucking up joshos on top the fat man has to say fat and nerdy when he is like that fat idiot good video friend")
+    }
+
+    if(message.content == 'kamizilla quote 3') {
+        message.channel.sendMessage("i'm trying to get along with you, overtrusted fuckhead. you're the one trying to start shit here. can you realize how dumb you are? you're trying to expose a child for enhancing your self esteem. and now that you have the attention you needed, how 'bout you shove it so far up in your ass, swegta dick rider.")
+    }
+
+    if(message.content == 'kamizilla quote 1') {
+        message.channel.sendMessage("the- the name- **GEIM**")
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
