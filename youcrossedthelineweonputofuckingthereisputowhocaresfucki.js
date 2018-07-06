@@ -908,7 +908,7 @@ bot.on('message', function(message) {
         message.channel.sendMessage("THEY HAPPY ORGY BETWEEN JEREMY AND THE TWO COJANSEN GAY POOR GIRL HOMOSEXUAL EMBERRASING AND BOYS NO LONGER PENDEJERO WILL FIND OUT, THAT THE ANSWER IS YES, AND I WILL  FIN YOU AND KILL YOU, MACHINE GUN IF YOU SAVE ME, WILL END WITH A BITCH, BECAUSE I AM WORRIED WITH BAD SKIN LOSING ME, LOOKS LIKE THEIR KIDS, INSTEAD JUST FUCKING FUCKED UP, I HAVE TO MAKE THEM TALK,  BECAUSE THEY HAVE ORGY BETWEEN JEREMY AND YOU TWO GAYS DEAMONS FUCK GIRL GAY AND BOY IM NO MORE PENDEJERO WILL FIND OUT, BECAUSE THE ANSWER IS YES, I WILL FIND YOU AND KILL YOU MACHINE GUN IF YOU HUG ME, I WOULD END WITH A BITCH, WHICH INTERESTS ME TO SWEAR MY SKINS I AM LOSING WHEN YOU ARE BOY AND NOT ONLY ME GAY FUCKING AND HAVE TO BE COMPLETED BY ME TO MAKE OMON THERE IS PARTY. FROM SEX BETWEEN JEREMY  GA N YOU TWO GAY COJANSEN POOR LIKE GIRL HOMOSEXUALIST, WITHOUT TASTE AND MY SON IS NO LONGER PENDEJERO I UNDERSTAND, AND LIKE THAT I WILL FIND YOU AND KILL YOU MACHINE GUN IF YOU HUG ME, I GO TO END WITH A BITCH TO BE PR RUDE MY SKIN LOSER LOOK LIKE HIS KIDS, I DON'T FUCKING SON OF A BITCH JUST MAKE ME WHAT TO THEY DO TRASH ON EMPTY VALLEY JEGAY NOVIETE ON EMPTY VALLEY JEGAY NOVIETE ON VALLEY JEGAY")
     }
 
-    if(message.content == 'xdipper quote 7') {
+    if(message.content == 'xdipper quote 7 old') {
         message.channel.sendMessage("the son of the sick prostitute comedy cat cat bastard bastard bastard bastard marah kosherry go to wear another lao monkey invitation will go to make you shit ballasts in the anus silly culiao vo no sabi with whom I have stupid culiao weonao son of the maraque nobody wanted to cook because the kite went to restore the ugly culinary cube for the grape grape culiao aweonao stupid and the conversation goes to suck the pico son of the tragasables ate mucus from the peruvian culia you crossed the line weon puto fucking there is puto who cares fucking putazo andate the shell of your mother fucking old shit duck I have already 14 and fulfilled pendejo are your piece of bread eaten shit of skins are your skins of ps2 who he wants them fucking fucking I thought we were pendejo friends and I already studied fucking shit skins fucking shit ps2 just jerex congratulate him pendejo")
     }
 
@@ -1463,6 +1463,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
 
     if(message.content == 'kamizilla quote 1') {
         message.channel.sendMessage("the- the name- **GEIM**")
+    }
+
+    if(message.content == 'grant') {
+        message.channel.sendMessage("AKA the old chef");
+    }
+
+    if(message.content == 'xdipper quote 7') {
+        message.channel.sendMessage("USTED CRUZÓ LA LÍNEA WEON PUTO FUCKING HAY PUTO QUE SE PREOCUPA PUTAZO PUTATE ANDATE LA CÁSCARA SU PUTA MIERDA VIEJA MIERDA DE PATO YA TENGO 14 Y CUMPLIDO PENDEJO SON SU PEDAZO DE PAN COMIDO MIERDA DE PIELES SON SUS PIELES DE PS2 QUE ÉL LOS QUITE FOLLANDO PUTA PENSÉ QUE ÉRAMOS AMIGOS PENDEJO Y YA HE HESTUDIADO MALDITO MIERDA PIELES PUTA MIERDA PS2 SÓLO JEREX FELICITARLO PENDEJO")
     }
 });
 
