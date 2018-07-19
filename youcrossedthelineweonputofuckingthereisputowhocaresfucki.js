@@ -1472,6 +1472,14 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'xdipper quote 7') {
         message.channel.sendMessage("USTED CRUZÓ LA LÍNEA WEON PUTO FUCKING HAY PUTO QUE SE PREOCUPA PUTAZO PUTATE ANDATE LA CÁSCARA SU PUTA MIERDA VIEJA MIERDA DE PATO YA TENGO 14 Y CUMPLIDO PENDEJO SON SU PEDAZO DE PAN COMIDO MIERDA DE PIELES SON SUS PIELES DE PS2 QUE ÉL LOS QUITE FOLLANDO PUTA PENSÉ QUE ÉRAMOS AMIGOS PENDEJO Y YA HE HESTUDIADO MALDITO MIERDA PIELES PUTA MIERDA PS2 SÓLO JEREX FELICITARLO PENDEJO")
     }
+
+    if(message.content == 'jerex quote 16') {
+        message.channel.sendMessage("que wea pasa gil culiao hijo de la masturba camellos pendejo chaufan que te veni a achocar aborto de mono, y pensar que una vez te consideré mi mejor amigo maricón montoya, igual me comí a tu mina xD mentira no me comi a tu mina porque no teni, nunca vai a tener negro culiao feo emo edgy arrogante.");
+    }
+
+    if(message.content == 'jerex face reveal') {
+        message.channel.sendMessage("https://cdn.discordapp.com/attachments/334220737684570113/467444951182082049/unknown.png");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
