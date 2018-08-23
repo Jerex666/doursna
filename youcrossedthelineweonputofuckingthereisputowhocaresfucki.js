@@ -1480,6 +1480,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == 'jerex face reveal') {
         message.channel.sendMessage("https://cdn.discordapp.com/attachments/334220737684570113/467444951182082049/unknown.png");
     }
+
+    if(message.content == 'justin') {
+        message.channel.sendMessage("First off, two years in the fucking marine, second off if you ever mention my first born daughter again I will personally fly over there and rip your fucking heart off and shove it up your ass");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
