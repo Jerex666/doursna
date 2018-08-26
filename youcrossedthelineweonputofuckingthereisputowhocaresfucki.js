@@ -1488,6 +1488,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == "g's up hoes down") {
         message.channel.sendMessage("justin");
     }
+
+    if(message.content == "joke") {
+        message.channel.sendMessage("quinnsane");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
