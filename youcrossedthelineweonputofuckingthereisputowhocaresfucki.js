@@ -1492,6 +1492,10 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     if(message.content == "joke") {
         message.channel.sendMessage("quinnsane");
     }
+
+    if(message.content == "jerex quote 17") {
+        message.channel.sendMessage("what was missing\nNow it's a fucking fucking homosexual error\ndamaged files I do not know what the fuck\njust for taking out all the mods\nI can not play without mods online");
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
