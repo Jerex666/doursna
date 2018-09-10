@@ -1466,7 +1466,7 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     }
 
     if(message.content == 'grant') {
-        message.channel.sendMessage("hello there caynguin, this is grant. i would like to inform you that the individual by the name of "ThrowingOutRoX" has no proof of my wrong doings. I believe he is trying to frame this crime on my doing. I informed him that i was not the culprit, but he earased all of the proof to my argument, which i find rather suspicious. He has preformed similar acts in the past, such as speaking very rudely about myself and my friend, kami, and blaming these actions on me.");//AKA the old chef
+        message.channel.sendMessage(`hello there caynguin, this is grant. i would like to inform you that the individual by the name of "ThrowingOutRoX" has no proof of my wrong doings. I believe he is trying to frame this crime on my doing. I informed him that i was not the culprit, but he earased all of the proof to my argument, which i find rather suspicious. He has preformed similar acts in the past, such as speaking very rudely about myself and my friend, kami, and blaming these actions on me.`);//AKA the old chef
     }
 
     if(message.content == 'xdipper quote 7') {
