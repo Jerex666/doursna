@@ -841,7 +841,7 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'granty') {
-        message.channel.sendMessage('Eres un gran pedazo de mierda madre mamando polla chupando hijo de puta esperma en mi gran polla negra y pelotas con un viejo y oxidado consolador en mis tetas peludas hasta el culo con mi pene realmente muy largo y duro con la piña de Manny en mi pecho.');
+        message.channel.sendMessage(`idk\nmaybe spamming people with my disgusting images\nand not excepting anything of it\nI'm the asshole`);//Eres un gran pedazo de mierda madre mamando polla chupando hijo de puta esperma en mi gran polla negra y pelotas con un viejo y oxidado consolador en mis tetas peludas hasta el culo con mi pene realmente muy largo y duro con la piña de Manny en mi pecho.
     }
 	
     if(message.content == 'beta recreator role for undead') {
@@ -1466,7 +1466,7 @@ It was there when the Maricon Re Weon of Lucifer arrived. the weon re aweonao fo
     }
 
     if(message.content == 'grant') {
-        message.channel.sendMessage(`hello there caynguin, this is grant. i would like to inform you that the individual by the name of "ThrowingOutRoX" has no proof of my wrong doings. I believe he is trying to frame this crime on my doing. I informed him that i was not the culprit, but he earased all of the proof to my argument, which i find rather suspicious. He has preformed similar acts in the past, such as speaking very rudely about myself and my friend, kami, and blaming these actions on me.`);//AKA the old chef
+        message.channel.sendMessage(`its my fault they are talking about me\nso i shouldnt be all worked up if i did this to myself\nim just fucked in the head\nand i can't stay in-line`);//AKA the old chef;;hello there caynguin, this is grant. i would like to inform you that the individual by the name of "ThrowingOutRoX" has no proof of my wrong doings. I believe he is trying to frame this crime on my doing. I informed him that i was not the culprit, but he earased all of the proof to my argument, which i find rather suspicious. He has preformed similar acts in the past, such as speaking very rudely about myself and my friend, kami, and blaming these actions on me.
     }
 
     if(message.content == 'xdipper quote 7') {
