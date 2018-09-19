@@ -284,7 +284,7 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'swegta') {
-        message.channel.sendMessage('is a cuck');
+        message.channel.sendMessage("gta sucks, because you learn so much more from bully even though it is set in a school, and because i dropped out at 7th grade, that is a big deal to me, and the npc's are so much important than the gta ones even though there are way less and they don't even appear in the storyline at all, i'm swegta, and nobody asked for my opinion.");//is a cuck
     }
 
     if(message.content == 'nathan') {
