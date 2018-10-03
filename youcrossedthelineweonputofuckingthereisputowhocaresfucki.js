@@ -404,11 +404,11 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'thenathan') {
-        message.channel.sendMessage('got hated by sweg fans');
+        message.channel.sendMessage('got hated by swegayta dickriders');
     }
 
     if(message.content == 'thenathanns') {
-        message.channel.sendMessage('thenintendods');
+        message.channel.sendMessage('is an idiot who demotes people for no reason');
     }
 
     if(message.content == 'nathanns') {
@@ -608,11 +608,11 @@ bot.on('message', function(message) {
     }
 
     if(message.content == 'mike d') {
-        message.channel.sendMessage('moick dee');
+        message.channel.sendMessage('some edgy retarded kid');
     }
 
     if(message.content == 'mike dee') {
-        message.channel.sendMessage('mike dab');
+        message.channel.sendMessage('sucks toonymanias peanut');
     }
 
     if(message.content == 'lel') {
@@ -725,7 +725,8 @@ bot.on('message', function(message) {
     }
 //https://cdn.discordapp.com/attachments/334281359541665802/437647219760431104/gamerforever_needs_doursna_in_his_life_me_either_xd.png
     if(message.content == 'quinnsane') {
-        message.channel.sendMessage('guitar here smash xd ok xdd');
+        message.channel.sendMessage('is a greasy moist posh nonce boy who thinks he's a hard man because he's right wing, throws the n word around online and has trashy facial piercings, however in reality he's the type to hang around outside primary schools whilst trying to conceal his hard-on as he gawks at the kiddies, then shuffles home to wail into a mic and upload it to soundcloud to appease his 9 year old fans. To spot a wild quinnsane online, look out for a clapped manchild who changes his gender and sexuality every five minutes to try and make himself attractive to unsuspecting and uninterested teenage girls, and then denies the fact that he's a sex predator and cries whenever confronted.
+');
     }
 
     if(message.content == 'xdipper new quote') {
